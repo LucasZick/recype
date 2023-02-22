@@ -1,16 +1,25 @@
-# meals
+# recype
 
-A new Flutter project.
+"recype" is a personal recipe and food categorization app, designed as a project for practicing app development skills. With "recype", you can easily categorize and store your favorite recipes, giving you a convenient way to explore new dishes and manage your go-to recipes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Recipe and food categorization
+* Customizable categories for recipes
+* Ability to store recipes with ingredients and directions
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To use "recype", you'll need to have the Flutter development environment installed on your machine. Once you've cloned the repository, you can use the `flutter run` command to start the app on your local machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+"recype" is a helpful tool for anyone who wants to explore new dishes and manage their favorite recipes. The app provides a simple and intuitive interface for categorizing and storing recipes, allowing you to easily search for recipes based on meal type, cuisine, ingredients, and more. You can customize the recipe categories to fit your needs, and use the app to help you keep track of your go-to recipes.
+
+## Contributing
+
+"recype" is a personal project, so contributions are not currently being accepted. However, you're welcome to fork the repository and use it as a starting point for your own recipe and food categorization app.
+
+## License
+
+"recype" is available under the MIT License. Feel free to use the code in your own projects or modify it as needed.
